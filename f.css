@@ -2935,7 +2935,7 @@ i[class*=" icon-"]:before,i[class^=icon-]:before {
 }
 
 .icon-navigation-cart-empty:before {
-    content: url(/images/shopping-cart.gif);
+    content: url(shopping-cart.gif);
 }
 
 .icon-navigation-cart-filled:before {
@@ -3184,15 +3184,15 @@ i[class*=" icon-"]:before,i[class^=icon-]:before {
 }
 
 .icon-social-facebook:before {
-    content: url(/images/facebook.png)
+    content: url(facebook.png)
 }
 
 .icon-social-instagram:before {
-    content: url(/images/instagram.png)
+    content: url(instagram.png)
 }
 
 .icon-social-linked-in:before {
-    content: url(/images/linked-in.png)
+    content: url(linked-in.png)
 }
 
 .icon-social-pinterest:before {
@@ -3204,11 +3204,11 @@ i[class*=" icon-"]:before,i[class^=icon-]:before {
 }
 
 .icon-social-tik-tok:before {
-    content: url(/images/tiktok.png)
+    content: url(tiktok.png)
 }
 
 .icon-social-twitter:before {
-    content: url(/images/twitter.png)
+    content: url(twitter.png)
 }
 
 .icon-social-x:before {
@@ -3216,7 +3216,7 @@ i[class*=" icon-"]:before,i[class^=icon-]:before {
 }
 
 .icon-social-youtube:before {
-    content: url(/images/youtube.png)
+    content: url(youtube.png)
 }
 
 .icon-status-banned:before {
